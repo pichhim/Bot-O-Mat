@@ -1,6 +1,4 @@
 # Bot-O-Mat
-
-# Description:
 Hi! This is a terminal-based app that allows users to generate Bots to do chores for them. Some additional features include adding additional chores, printing a leaderboard, creating multipble robots, and having tasks specific to each robot.
 Setup instructions:
 
